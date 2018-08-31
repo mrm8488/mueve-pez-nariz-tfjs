@@ -1,0 +1,33 @@
+{
+  "name": "mueve-pez-nariz-tfjs",
+  "version": "1.0.0",
+  "description": "A funny demo using POSENET and TFJS to move a fish in the screen based on your nose position",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrm8488/mueve-pez-nariz-tfjs.git"
+  },
+  "keywords": [
+    "tensorflow",
+    "posenet",
+    "demo",
+    "fun"
+  ],
+  "author": "Manuel Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrm8488/mueve-pez-nariz-tfjs/issues"
+  },
+  "homepage": "https://github.com/mrm8488/mueve-pez-nariz-tfjs#readme",
+  "dependencies": {
+    "@tensorflow-models/posenet": "^0.2.2",
+    "@tensorflow/tfjs": "^0.12.6",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "^1.1.5"
+  }
+}
