@@ -13,4 +13,4 @@ npm start
 2. Go to *src* folder
 3. Open *index.js* file and in the line 7 write *unicorn.gif* instead of *fish.gif*. Save and exit.
 4. Open *style.css* and in the line 9 write *castle.jpg* instead of *aquarium.jpg*. Save and exit.
-#### Done by Manuel Romero for Martina :woman: and Violeta :girl: (and their cousins Fernando :boy: y Enrique :boy:)
+#### Done by Manuel Romero for Martina :woman: and Violeta :girl: (and their cousins Fernando :boy: and Enrique :boy:)
